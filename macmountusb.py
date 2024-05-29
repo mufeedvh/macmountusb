@@ -127,4 +127,4 @@ class MacMountUSB(App):
         self.exit()
 
 if __name__ == "__main__":
-    USBMountApp().run()
+    MacMountUSB().run()
